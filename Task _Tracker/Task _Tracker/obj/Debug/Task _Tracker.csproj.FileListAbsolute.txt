@@ -1,0 +1,7 @@
+D:\vs26\Task _Tracker\Task _Tracker\bin\Debug\Task _Tracker.exe.config
+D:\vs26\Task _Tracker\Task _Tracker\bin\Debug\Task _Tracker.exe
+D:\vs26\Task _Tracker\Task _Tracker\bin\Debug\Task _Tracker.pdb
+D:\vs26\Task _Tracker\Task _Tracker\obj\Debug\Task _Tracker.csproj.AssemblyReference.cache
+D:\vs26\Task _Tracker\Task _Tracker\obj\Debug\Task _Tracker.csproj.CoreCompileInputs.cache
+D:\vs26\Task _Tracker\Task _Tracker\obj\Debug\Task _Tracker.exe
+D:\vs26\Task _Tracker\Task _Tracker\obj\Debug\Task _Tracker.pdb
